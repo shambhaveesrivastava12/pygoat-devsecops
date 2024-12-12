@@ -31,7 +31,7 @@ jobs:
 
   image_scan:
     name: Build image and run image scan
-    runs-on: ubuntu-latestt
+    runs-on: ubuntu-latest
 
 
     steps:
